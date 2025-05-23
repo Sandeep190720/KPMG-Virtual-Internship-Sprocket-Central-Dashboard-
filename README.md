@@ -22,7 +22,7 @@ This dashboard presents a **comprehensive visual analysis** of Sprocket Central�
 
 * ![Dashboard Preview](https://github.com/user-attachments/assets/e14bd11b-dc12-4d88-889c-f2d4cb851914)
 * 🔗 [Dashboard Link](https://public.tableau.com/app/profile/s.r7802/viz/KPMG_Sprocket_Central_Sales_Dashboard/Dashboard1)
-* 📂 [Download Dataset (Amazon_Apparel.xlsx)](https://github.com/Sandeep190720/KPMG-Virtual-Internship-Sprocket-Central-Dashboard-/blob/main/Sample%20-%20Superstore.xls)
+* 📂 [Download Dataset (Sprocket Central Data.xlsx)](https://github.com/Sandeep190720/KPMG-Virtual-Internship-Sprocket-Central-Dashboard-/blob/main/Sample%20-%20Superstore.xls)
 
 ---
 
