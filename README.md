@@ -18,7 +18,7 @@ This dashboard presents a **comprehensive visual analysis** of Sprocket Centralâ
 * Enable **interactive filtering** to support marketing, product, and regional decisions.
 
 ---
-###Dashboard Details
+### Dashboard Details
 
 * ![Dashboard Preview](https://github.com/user-attachments/assets/e14bd11b-dc12-4d88-889c-f2d4cb851914)
 * ðŸ”— [Dashboard Link](https://public.tableau.com/app/profile/s.r7802/viz/KPMG_Sprocket_Central_Sales_Dashboard/Dashboard1)
