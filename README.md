@@ -20,7 +20,7 @@ This dashboard presents a **comprehensive visual analysis** of Sprocket Centralâ
 ---
 ###Dashboard Details
 ![Sprocket Central Dashboard](https://github.com/user-attachments/assets/e14bd11b-dc12-4d88-889c-f2d4cb851914)
-* < a href = https://public.tableau.com/app/profile/s.r7802/viz/KPMG_Sprocket_Central_Sales_Dashboard/Dashboard1 ![image](https://github.com/user-attachments/assets/def4a611-5499-49a1-9431-5089d47ea205)> Dashboard Link </a>
+* < a href = https://public.tableau.com/app/profile/s.r7802/viz/KPMG_Sprocket_Central_Sales_Dashboard/Dashboard1> Dashboard Link </a>
 * < a href = https://github.com/Sandeep190720/KPMG-Virtual-Internship-Sprocket-Central-Dashboard-/blob/main/Sample%20-%20Superstore.xls> Dataset </a>
 
 ---
