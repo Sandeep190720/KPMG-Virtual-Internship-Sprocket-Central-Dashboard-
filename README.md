@@ -2,13 +2,13 @@
 
 ## Exploratory analysis of Sprocket Central’s Retail Bike Sales Data using Tableau
 
-### 🚴‍♂️ Project Overview
+### Project Overview
 
 This dashboard presents a **comprehensive visual analysis** of Sprocket Central’s bike sales performance using Tableau. It helps uncover patterns in customer behavior, sales distribution, profitability across industries, and geographic trends, using **real-world retail data** from the KPMG Virtual Internship.
 
 ---
 
-### 🎯 Project Objectives
+### Project Objectives
 
 * Visualize **total revenue and sales quantity** for clear business performance tracking.
 * Analyze **sales distribution by product category** to identify bestsellers.
@@ -53,11 +53,8 @@ This Tableau dashboard provides a **powerful lens into Sprocket Central’s busi
 
 ---
 
-### 🛠 Tools Used
+### Tools Used
 
 * **Tableau** (Dashboard development and visualization)
 * **Example Retail Sales Dataset** from KPMG Virtual Internship
 
----
-
-Would you like me to generate a `README.md` file for this as well?
